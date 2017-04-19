@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: object-practice-2016, Configuration: Debug Any CPU ------
+1>  object-practice-2016 -> C:\Users\ゲームプログラム2-3\Documents\GitHub\object-practice-2016\object-practice-2016\bin\Debug\object-practice-2016.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
